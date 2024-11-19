@@ -1,4 +1,4 @@
-package com.lucasangelo.todosimple;
+package com.nicolastrabuco.todosimple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TodosimpleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TodosimpleApplication.class, args);
-	}
 
+		SpringApplication.run(TodosimpleApplication.class, args);
+		System.out.println("Hello, world");
+	}
+		
 }

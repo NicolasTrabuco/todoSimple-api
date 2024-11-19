@@ -5,9 +5,9 @@ target/
 !**/src/test/**/target/
 
 ### STS ###
+.factorypath
 .apt_generated
 .classpath
-.factorypath
 .project
 .settings
 .springBeans
@@ -28,6 +28,3 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-
-### VS Code ###
-.vscode/

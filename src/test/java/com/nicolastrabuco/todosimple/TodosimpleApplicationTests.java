@@ -1,4 +1,4 @@
-package com.lucasangelo.todosimple;
+package com.nicolastrabuco.todosimple;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
