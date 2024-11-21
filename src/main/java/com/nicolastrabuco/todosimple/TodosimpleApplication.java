@@ -10,6 +10,6 @@ public class TodosimpleApplication {
 
 		SpringApplication.run(TodosimpleApplication.class, args);
 		System.out.println("Hello, world");
+
 	}
-		
 }
